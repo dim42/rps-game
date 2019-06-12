@@ -1,0 +1,13 @@
+start
+R
+scissors
+p
+r
+s
+p
+r
+s
+p
+r
+e
+q
