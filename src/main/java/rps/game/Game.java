@@ -52,6 +52,7 @@ public class Game {
         int result = humanShape.compare(robotShape);
         gamesTotal++;
 
+        // TODO: add lin regr-n
         Distribution<Shape> distribution;
         if (result < 0) {
             losses++;
